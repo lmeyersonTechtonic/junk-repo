@@ -188,8 +188,20 @@
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "61d537e9-1f9b-4803-9931-d709389dbaf6",
-    "SourceControlRepository": null,
-    "IsOnline": false,
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/lmeyersonTechtonic/junk-repo.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/lmeyersonTechtonic/junk-repo.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
     "ProjectLanguage": 2,
     "ProjectReferences": [
       "System",
